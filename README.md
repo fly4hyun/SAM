@@ -1,5 +1,8 @@
 # SAM (burn)
 
+reference
+https://github.com/facebookresearch/segment-anything
+
 models
 https://drive.google.com/file/d/1KDUfFX30F8xsabR3IyXwNIDC8Q_1DE9z/view?usp=share_link
 
